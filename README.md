@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there It's Mayank here 👋
 
-<!--
-**Mayank328/Mayank328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://in.linkedin.com/in/mayank-lohani">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pranjal-g083&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
