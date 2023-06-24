@@ -15,3 +15,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Codeforces](https://raw.githubusercontent.com/Mayank_328/Codeforces/main/output/light_card.svg#gh-dark-mode-only)
+
+![codeforces max rating](https://raw.githubusercontent.com/Mayank_328/Codeforces/main/output/max_rating.svg)
+![codechef max rating](https://raw.githubusercontent.com/Mayank_328/Codeforces/main/output/codechef.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank328&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank328&show_icons=true&theme=radical)
